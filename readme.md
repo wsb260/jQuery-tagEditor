@@ -1,5 +1,6 @@
 jQuery-tagEditor
 ================
+[API文档](https://goodies.pixabay.com/jquery/tag-editor/demo.html)
 
 A powerful and lightweight tag editor plugin for jQuery.
 
